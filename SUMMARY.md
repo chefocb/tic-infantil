@@ -25,6 +25,7 @@ ____
 		* [3.3 Descargar vídeos](33_descargar_vdeos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 * [Créditos](crditos.md)
+
 ### M2. ACTIVIDADES INTERACTIVAS CON UNA HERRAMIENTA DE AUTOR | M.2. Actividades interactivas con una herramienta de autor: Edilim 
 * [M2. ACTIVIDADES INTERACTIVAS CON UNA HERRAMIENTA DE AUTOR](index1.md)
 * [Contenidos](contenidos1.md)
@@ -36,6 +37,7 @@ ____
 		* [2.1 Educaplay: una alternativa on-line](21_educaplay_una_alternativa_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
 * [Créditos](crditos1.md)
+
 ### M.3 EL FORMULARIO COMO ACTIVIDAD DE APRENDIZAJE | M.3 El formulario como actividad de aprendizaje 
 * [M.3 EL FORMULARIO COMO ACTIVIDAD DE APRENDIZAJE](index2.md)
 * [Contenidos](contenidos2.md)
@@ -52,6 +54,7 @@ ____
 		* [2.2.2 El formulario en Openoffice](222_el_formulario_en_openoffice.md)
 		* [2.2.3 El formulario on-line: Google Drive](223_el_formulario_online_google_drive.md)
 * [Créditos](crditos2.md)
+
 ### M4. Edición de sonidos | M4: Edición de sonidos 
 * [M4. Edición de sonidos](index3.md)
 * [Contenidos](contenidos3.md)
@@ -69,6 +72,7 @@ ____
 		* [2.3.2 Grabadoras de audio online](232_grabadoras_de_audio_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
 * [Créditos](crditos3.md)
+
 ### M.5 EL EDITOR DE PRESENTACIÓN DE DIAPOSITIVAS | M.5 El editor de presentaciones 
 * [M.5 EL EDITOR DE PRESENTACIÓN DE DIAPOSITIVAS](index4.md)
 * [Contenidos](contenidos4.md)
@@ -86,6 +90,7 @@ ____
 		* [2.3 Alternativa: Impress](23_alternativa_impress.md)
 		* [2.4 Alternativa on-line: Prezi](24_alternativa_online_prezi.md)
 * [Créditos](crditos4.md)
+
 ### M.6 EL EDITOR DE VÍDEOS | M.6 El editor de vídeos 
 * [M.6 EL EDITOR DE VÍDEOS](index5.md)
 * [Contenidos](contenidos5.md)
