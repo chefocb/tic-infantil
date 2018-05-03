@@ -18,6 +18,3 @@ Desde el **punto de vista educativo** :
 *   Se puede repetir, adelantar o retroceder fácilmente.
 
 
-![Logo de Audacity](http://audacity.sourceforge.net/images/Audacity-logo-r_50pct.jpg "Logo Audacity. Web oficial")fig. 4.8 Logo Audacity. Web oficial
-
-

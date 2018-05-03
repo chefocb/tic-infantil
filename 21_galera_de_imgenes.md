@@ -2,7 +2,7 @@
 
 Cuando queremos una imagen mayormente vamos al buscador de [Google](http://www.google.es/), seleccionamos “_Imágenes_” y escribimos el nombre del tipo de imagen que queremos antes de pinchar en “_Buscar Imágenes”_. No vamos a renunciar a esta inmensa galería, pero vamos a proponerte que investigues en otras galerías de imágenes, menos conocidas, pero, algunas de ellas, de más calidad y con licencia de uso gratuita.
 
-fig. 1.7 Búsqueda imágenes en Google. Captura de pantalla propia
+
 
 
 ![Pantalla de búsqueda de imágenes en Google](img/google_imagenes.jpg "Captura de pantalla propia en Google")

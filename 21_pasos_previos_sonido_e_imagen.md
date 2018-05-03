@@ -5,8 +5,6 @@ Lo ideal es que antes de empezar a trabajar con el Editor de presentaciones, ten
 Los archivos de sonido ya los hiciste en el módulo anterior, y, ahora sólo tendrás que escanear los dibujos que hayan hecho tus alumnos y alumnas.
 
 
-![Dibujo de La dama y el vagabundo hecho por un alumno de Lorenzo Laliena](img/damayvagabundo.jpg "La dama y el vagabundo")
 
 
-fig. 5.9 La Dama y el vagabundo. Lorenzo Laliena
 

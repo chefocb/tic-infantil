@@ -6,8 +6,8 @@ Del módulo anterior ya tienes preparados los archivos de sonido con las voces d
 Para terminar este primer paso previo antes de empezar con el editor de presentaciones, te rogamos encarecidamente que tus archivos de **sonidos estén en la misma carpeta donde vayas a guardar tu documento de presentación**. De lo contrario, tus sonidos no se van a oír porque al romperse la vinculación todo lo que hayas hecho anteriormente no será encontrado por el programa.
 
 
-![Carpeta con ppt y archivos de sonido adjuntos](img/carpetapowerpoint.jpg "Carpeta con ppt y archivos de sonido") fig. 5.10 Carpeta con ppt y archivos de sonido. CPP
+![Carpeta con ppt y archivos de sonido adjuntos](img/carpetapowerpoint.jpg "Carpeta con ppt y archivos de sonido") 
 
 
-Tal como dijimos en el apartado 2.3.1 del Módulo 4, es importante que trabajes con archivos de sonido que no pesen mucho, como, por ejemplo, **Mp3**. Los archivos **.wav** son de mejor calidad, pero están sin comprimir y pesan más. Si tus grabaciones todavía están guardadas en .wav, vuelve al mencionado apartado 2.3.1 y léete el texto sobre los  **conversores ****de formatos de audio.**
+Tal como dijimos en el apartado 2.3.1 del Módulo 4, es importante que trabajes con archivos de sonido que no pesen mucho, como, por ejemplo, **Mp3**. Los archivos **.wav** son de mejor calidad, pero están sin comprimir y pesan más. Si tus grabaciones todavía están guardadas en .wav, vuelve al mencionado apartado 2.3.1 y léete el texto sobre los  **conversores de formatos de audio.**
 

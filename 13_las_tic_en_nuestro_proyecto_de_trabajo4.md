@@ -10,13 +10,13 @@ Ahora ya podemos visionar el resultado del trabajo hecho a través de varias ses
 [![Diapositiva PPT "Manos largas" por Susana Galindo](img/manoslargas.jpg "Diapositiva PPT "Manos largas"")](http://aularagon.catedu.es/materialesaularagon2013/ticinfantil/Piratabueno/piratabueno.ppsx "Pirata bueno")
 
 
-fig. 5.6 Power Point "Manos largas".                Susana Galindo
+
 
 
 [![Diapositiva Power Point "Cuento mix" Rocío Beser](img/cuentomix_RocioBeser.jpg "Diapositiva Power Point "Cuento mix"")](http://aularagon.catedu.es/materialesaularagon2013/ticinfantil/cuentomix/presentacion.pps "PPS Cuento Mix")
 
 
-fig. 5.7 Power Point "Caperucita mix"      Rocío Beser
+
 
 Si pinchas en las imágenes de arriba, podréis ver dos **ejemplos** diferentes de **presentación**, tanto por la edad de los alumnos como por la forma de construir la historia. En la historia de "_Manos largas_" los niños se han limitado a reproducir el cuento. Por el contrario, en la de "_Caperucita mix_" los niños y niñas han refundido varias historias, aunque respetando la estructura tradicional de los cuentos.
 

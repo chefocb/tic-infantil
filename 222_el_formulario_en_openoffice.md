@@ -8,7 +8,7 @@ Si eres de los que utilizas  este procesador de textos, verás que no hay mucha
 ![Barra del formulario de openoffice](img/formulario_openoffice.jpg "Barra formulario de Openoffice") 
 
 
-fig. 3.17 Barra de estado del formulario Openoffice. Captura pantalla propia
+
 
 Para más información puedes mirar el punto 3.17 del tutorial del [IES Muñoz Torrero](http://iesmunoztorrero.juntaextremadura.net/web/lenix/writer1/oowriter3desc.html#bformularios "Tutorial Formulario Writer IES Muñoz Torrero")
 

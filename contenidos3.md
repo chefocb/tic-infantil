@@ -1,6 +1,6 @@
 # Contenidos
 
-*   Unidad 1:**Reelaborando la información en los Proyectos de Trabajo.**
+### Unidad 1:**Reelaborando la información en los Proyectos de Trabajo.**
 
 1.1. Reelaborar en los Proyectos de Trabajo.
 
@@ -8,7 +8,7 @@
 
 1.3. Las TIC en nuestro Proyecto de Trabajo.
 
-*   Unidad 2: **Edición de sonidos**
+### Unidad 2: **Edición de sonidos**
 
 2.1 Los dispositivos de grabación
 
@@ -24,9 +24,9 @@
 
 2.3.2 Grabadoras de audio online
 
-*   Unidad 3:**Entrega al tutor.**
+### Unidad 3:**Entrega al tutor.**
 
 
-![Botones controles de grabación y reproducción de Audacity](img/controles_grabacion_y_reproduccion.jpg "Botones de control de Audacity") fig. 4.2 Botones grabación Audacity. Captura de pantalla propia
+![Botones controles de grabación y reproducción de Audacity](img/controles_grabacion_y_reproduccion.jpg "Botones de control de Audacity") 
 
 

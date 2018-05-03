@@ -12,5 +12,5 @@ Ahora nuestro trabajo será plasmar en actividades el análisis de ese mundo ima
  [![Schultz & Co.](http://farm4.staticflickr.com/3291/3092749601_4da672fd79.jpg)](http://www.flickr.com/photos/muohio_digital_collections/3092749601/ "Schultz & Co. por Miami U. Libraries - Digital Collections, en Flickr")
 
 
- fig. 3.5. Portada "Caperucita roja". Miami U.Libraries
+ 
 

@@ -9,8 +9,7 @@ Cuando grabes, ten en cuenta las siguientes **consideraciones**:
 *   Evitar grabar de cara a una pared próxima para así _reducir la reverberación._
 
 
-  ![area de trabajo de Audacity](img/areatrabajoaudacity.jpg "Area trabajo Audacity") Fig 4.11  Entorno Audacity www.ite.educacion.es. Licencia Creative Commons
-
+![area de trabajo de Audacity](img/areatrabajoaudacity.jpg "Area trabajo Audacity")
 
 **El entorno del programa** es muy sencillo, con iconos y menús muy intuitivos. En la siguiente figura te detallamos los elementos indispensables para comenzar a grabar.
 
@@ -41,7 +40,7 @@ Los **controles de grabación y reproducción** son los de toda la vida. Así, p
 ![Botones grabación de Audacity](img/controles_grabacion_y_reproduccion.jpg "Botones de Grabación.")
 
 
-Fig. 4.12 Botones grabación Audacity. Captura de pantalla propia
+
 
 \- Herramientas de desplazamiento de tiempo
 
@@ -73,9 +72,9 @@ Cómo editar una sola tira sonora a partir de dos archivos diferentes.
 ![Dos pistas que se van a unir. Audacity](img/tira_de_pistas.jpg "Tira de pistas. Audacity")
 
 
-fig. 4.13 Tira de pistas. Video tutorial de Aularagón.
 
-Y si eres de los que les gusta más la lectura reposada, mírate el [tutorial](http://www.catedu.es/facilytic/2013/06/19/tutorial-audacity/ "Tutorial pdf Audacity")  en **pdf **de Daniel Primo sobre Audacity. Podrás encontrar información sobre:
+
+Y si eres de los que les gusta más la lectura reposada, mírate el [tutorial](http://facilytic.catedu.es/2013/06/19/tutorial-audacity/ "Tutorial pdf Audacity")  en **pdf **de Daniel Primo sobre Audacity. Podrás encontrar información sobre:
 
 *   Herramientas y espacio de trabajo  4,5
 *   Grabar y cabecera de pista            9-11

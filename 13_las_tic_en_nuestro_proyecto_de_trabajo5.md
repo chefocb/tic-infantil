@@ -6,7 +6,7 @@ Es muy importante que hayas guardado todos los archivos de sonido e imagen que h
 [![Detalle diapositiva proyecto "El barrio" del CEIP Almozara](img/globomundo.jpg "Portada de un proyecto de trabajo del CEIP Almozara")](http://aularagon.catedu.es/materialesaularagon2013/ticinfantil/nuevayork.wmv "Video del PT sobre el mundo del CEIP Octavus")
 
 
-fig. 6.5 Diapositiva Ppt del P.Trabajo del CEIP Octavus
+
 
 Para amalgamar los archivos de sonido e imagen vamos a utilizar la herramienta del **editor de vídeo** (Moviemaker, VideoPad, VideoEditor, etc.). Con ella vamos a incrustar imágenes, sonidos, transiciones, efectos de imágenes, y escribir títulos y créditos. Y como lo que se hace en la escuela no debe quedarse en la propia escuela, al final **publicaremos el vídeo**en la galería de Youtube.
 

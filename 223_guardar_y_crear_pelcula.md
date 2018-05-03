@@ -11,7 +11,7 @@ Antes de de exportar nuestro trabajo, lo **podemos ver todas las veces que quer
 ![Vista previa en Movie Maker](img/previsualizarmoviemaker.jpg "Vista previa en Movie Maker")
 
 
-fig. 6.28  Vista previa. Captura de pantalla propia de Julián  Trullenque
+
 
 **2\. Crear una película**.
 
@@ -21,7 +21,7 @@ fig. 6.28  Vista previa. Captura de pantalla propia de Julián  Trullenque
 ![Guardar pelicula en Movie Maker](img/guardarpeliculamoviemaker.jpg "Guardar película Movie Maker")
 
 
-fig. 6.29 Guardar película. Captura de pantalla propia de Julián Trullenque
+
 
 *   Este programa solamente guarda películas en formato WMA o MPG4
 
@@ -35,7 +35,7 @@ Cuando hayas **finalizado la edición,** vete a “_Finalizar Película_”, pin
 ![Asistente para guardar película de Movie Maker](img/crear_pelicula1.jpg "Asistente para guardar película")
 
 
-fig. 6.30 Asistente para guardar película de Movie Maker. CPP
+
 
 Por defecto Movie Maker te guardará el archivo de la película en **formato** .WMV, que junto al formato .MOV ,RM, y .FLV, es el más adecuado para publicar un vídeo en Internet por su correcta relación calidad/peso. De todas formas, si quieres guardar el video original  para tu propio uso, fuera de la red, lo mejor es el formato .AVI. Ahora sólo te queda verla con tus alumnos y alumnas.
 

@@ -3,7 +3,7 @@
 Es un programa de edición de vídeo de  Windows. Es un programa de Windows que captura e importa videos, sonidos e imágenes fijas para editarlas. Al contenido puede agregar títulos, transiciones de vídeo o efectos y guardar finalmente como formato película.
 
 
-![Imagen de Movie Maker de ite.educacion.es](http://www.ite.educacion.es/formacion/materiales/131/material/modulo_9/logo-2007.png "Imagen de Movie Maker")   fig. 6.13 Imagen Movie Maker. ite.educacion.es
+![Imagen de Movie Maker de ite.educacion.es](http://www.ite.educacion.es/formacion/materiales/131/material/modulo_9/logo-2007.png "Imagen de Movie Maker")   
 
 
 Si no tuvieras el programa instalado, pincha aquí para averiguar cuál es la versión más actualizada y adecuada para tu sistema, y [descárgala](http://windows.microsoft.com/es-es/windows/get-movie-maker-download "Página de descarga de Movie Maker").

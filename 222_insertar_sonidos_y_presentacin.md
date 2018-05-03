@@ -12,7 +12,7 @@ Como estás trabajando con los archivos de sonido de las grabaciones de los niñ
 ![Insertar audio en Power Point](img/insertar_audiopower.jpg "Insertar audio en Power Point")   
 
 
-fig. 5.20 Insertar sonido en Power Point. CPP
+
 
 Lo que no debes olvidar nunca, y es la segunda vez que lo mencionamos, es tener siempre tus archivos de **sonido en la misma carpeta que tu presentación.** De no hacerlo así, no los podrás oír.
 
@@ -21,7 +21,7 @@ Una vez que has insertado el sonido, es muy importante configurar la **duración
 Cuando creas que todos los sonidos están debidamente situados y se escucha durante el intervalo que has fijado, haz una prueba pinchando en el menú de "**_Presentación de Diapositivas_**" y elige una de las opciones.
 
 
-![Menú presentación diapositivas en Power Point](img/presentaciondiapositivaspower.jpg "Menú presentación diapositivas en Power Point") fig. 5.21 Menú Presentación con diapositivas en Power Point. CPP
+![Menú presentación diapositivas en Power Point](img/presentaciondiapositivaspower.jpg "Menú presentación diapositivas en Power Point") 
 
 
 Si das el visto bueno, **oculta los iconos de los altavoces** para mejorar la estética de la presentación.   Pincha sobre el icono del altavoz que aparece en la diapositiva y elige una de estos caminos:

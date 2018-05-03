@@ -12,7 +12,7 @@ La grabación y reproducción digital de sonidos podemos realizarla mediante div
 *   El **micrófono** es el dispositivo de grabación más común por ser el más económico (menos de 10 euros es asimilable por cualquier colegio). Tanto sea externo como interno al ordenador, para poder grabar se necesitará tenerlo conectado a la tarjeta de sonido del equipo, y configurarlo como dispositivo de entrada de audio. Si observas que puedes grabar sin problemas, ¡no toques nada!. Si te sucediese lo contrario, haz los cambios oportunos a partir del panel de control o el icono del volumen que suele haber en la barra inferior de la pantalla. Si tuvieras alguna dificultad te recomendamos el siguiente [videotutorial](http://www.youtube.com/watch?feature=player_detailpage&v=nocUadWc1PI "Micrófono") o sigas los diferentes caminos para **configurar el audio** que te sugerimos a continuación:
 
 
-![micrófono conectado a un ordenador](img/Microfono.JPG "Micrófono")  fig. 4.9 Micrófono. Imagen libre de E.P.R.
+![micrófono conectado a un ordenador](img/Microfono.JPG "Micrófono")  
 
 
 

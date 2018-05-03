@@ -6,9 +6,9 @@
 
 Este programa **cubre los conceptos básicos sobre cómo editar vídeos**, incluyendo añadir sus archivos multimedia, edición, añadir efectos y transiciones, añadir o ajustar audio o narraciones y finalmente, guardar y exportar sus vídeos. Sin llegar a ser complicado su uso, es más completo que Movie Maker, aunque de formato muy parecido. El único inconveniente es que si no sabes inglés te va a limitar un poco, por lo menos al principio. Para **descargarlo** pincha [aquí ](http://www.nchsoftware.com/videopad/es/ "Descargar VideoPad"). Ten en cuenta que es una versión gratuita cuya **validez es de 15 días**, más que suficiente para que puedas editar tu película.
 
-fig. 6.31  Muestrario de VideoPad. Web oficial de Nch Sofware
 
-fig. 6.32  Barra menús de VideoPad. Captura de pantalla propia
+
+
 
 
 ![Barra menús de VideoPad](img/barramenuvideopad.jpg "Barra menús VideoPad")
@@ -44,7 +44,7 @@ Importamos todas las fotos y música a nuestro proyecto de edición.Aunque no ha
 ![Configurar proyecto de video en VideoPad](img/configurar_proyecto.jpg "Configurar proyecto Video Pad")
 
 
-fig. 6.33 Configurar proyecto. Captura de pantalla propia de Julián Trullenque
+
 
 **1\. Importar clips**
 
@@ -55,7 +55,7 @@ Es conveniente para este tipo de proyectos tener siempre **bien organizados en 
 *   Se abrirá una **ventana**, donde localizaremos los clips de **vídeo, música e imagen**. Seleccionamos todos. Para seleccionar todos los archivos a la vez, hacemos clic en el primero, pulsamos la tecla Mayúsculas y sin soltarla hacemos clic en el último. Ya podemos hacer **clic en Abrir** y se insertarán todos los archivos en nuestro proyecto.
 *   Al hacer el clic, veremos que los archivos se han **añadido a nuestro proyecto y aparecen en la lista de medios**..
 
-fig. 6.34. Lista de medios. Captura de pantalla propia
+
 
 
 ![Lista de medios. Area para subir archivos en Video Pad](img/listamediosvideopad.jpg "Lista de medios en Video Pad")
@@ -66,7 +66,7 @@ fig. 6.34. Lista de medios. Captura de pantalla propia
 Seleccionar el primer **clip y arrastrarlo a la línea de tiempo**. También se puede hacer todos a la vez (tecla Mayúsculas).
 
 
-![Arrastrar clips en Video Pad](img/Arrastrar_clipjpg.jpg "Arrastrar clips en Video Pad")  fig. 6.35 Cómo arrastrar clips. CPP de Julián Trullenque
+![Arrastrar clips en Video Pad](img/Arrastrar_clipjpg.jpg "Arrastrar clips en Video Pad")  
 
 
 La **duración de cada diapositiva** se puede controlar mediante:
@@ -78,13 +78,13 @@ La **duración de cada diapositiva** se puede controlar mediante:
 ![Control tiempo imágenes en Video Pad](img/tiempovideopad.jpg "Control tiempo en Video Pad")
 
 
- fig. 6.36 Controlador tiempo clips. CPP
+ 
 
 
 **![línea del tiempo de imágenes en Video Pad](img/lineatiempo2videopad.jpg "Línez del tiempo en Video Pad")**
 
 
- fig. 6.37 Línea del tiempo. CPP
+ 
 
 *   El mismo procedimiento seguiremos con los **archivos de sonido** para realizar todas las posibilidades descritas para las imágenes.
 
@@ -98,12 +98,12 @@ Videopad no tienen ninguna función especial para crear títulos. Es un programa
 ![Crear título en Video Pad](img/creartitulo1.jpg "Crear título Video Pad")
 
 
-fig. 6.38 Insertar espacio. CPP de Julián Trullenque
+
 
 *   Aparecerá un **cuadro de diálogo** que nos pregunta, dónde queremos colocar el cuadro negro. Seleccionamos "**Comienzo de la línea de tiempo**".
 
 
-![Crear títulos en Video Pad](img/crear_titulo2.jpg "Crear título Video Pad")   fig. 6.39 Colocar cuadro negro. CPP de Julián Trullenque
+![Crear títulos en Video Pad](img/crear_titulo2.jpg "Crear título Video Pad")   
 
 
 *   El espacio en negro que hemos creado dura 3 segundos. Puedes **cambiar la duración del clip** en el marcador de tiempo "_Duración en segundos_" Al final, no olvides pinchar en "Aplicar.
@@ -112,7 +112,7 @@ fig. 6.38 Insertar espacio. CPP de Julián Trullenque
 *   Aparecerá una ventana en la que **escribiremos nuestro texto** " y allí podremos cambiar los atributos del título.
 *   Ajustaremos la **duración** para que sea igual que el cuadro en negro que hemos insertado. Para esto haremos clic en "_duración_" y nos aparecerá otro cuadro de diálogo en el que escribiremos la duración.
 
-fig. 6.40 Ingresar duración tiempo. CPP de Julián Trullenque
+
 
 
 ![Ingresar duración Video Pad](img/ingresarnuevaduracion.jpg "Ingresar duración Video Pad")
@@ -131,7 +131,7 @@ Para hacer los **títulos de créditos finales** haremos lo mismo salvo que *
 ![Area para subtitular en Video Pad](img/subtitularclip.jpg "Area subtitular Video Pad")
 
 
-fig. 6.41 Área trabajo para subtitular. CPP de Julián Trullenque
+
 
 *   Para ajustar el momento en que aparecerá el texto, pulsamos sobre "**Mostrar**". Aparece un cuadro de diálogo en el que podemos ajustar hasta la décima de segundo el momento en que aparecerá el texto. Pulsamos "**Aceptar**" y reproducimos para comprobar el ajuste. Si es correcto vamos al siguiente paso y si no está bien ajustado, volvemos a editar el punto de inicio.
 *   Para ajustar el punto en el que se oculta el texto, pulsamos sobre "**Ocultar**" y procedemos de la misma forma que en punto anterior. El proceso hay que repetirlo con cada una de las frases
@@ -147,10 +147,10 @@ Antes de de exportar nuestro trabajo, lo **podemos ver todas las veces que quer
 ![Previsualizar Video Pad](img/previsualizar.jpg "Previsualizar Video Pad") 
 
 
-fig. 6.42 Pantalla vista previa. CPP de Julián Trullenque
 
 
-![Transiciones en Video Pad](img/opciontransicionvideopad.jpg "TRansiciones en Video Pad")   fig. 6.43 Transiciones y efectos. CPP
+
+![Transiciones en Video Pad](img/opciontransicionvideopad.jpg "TRansiciones en Video Pad")   
 
 
 En nuestra película podemos añadir **efectos y transiciones** para conseguir atractivos efectos visuales. De todas formas, no abuses de ellos. para introducirlos, tienes que seleccionar el clip y elegir en el área de la izquierda.
@@ -158,12 +158,12 @@ En nuestra película podemos añadir **efectos y transiciones** para conseguir
 **4\. Guardar película.** Tendrás que seleccionar el formato de salida (normalmente será tu ordenador) y seleccionar las diversas opciones que te da de formato de archivo, resolución y velocidad. Para hacer esto último tienes que pensar en cómo vas a exhibir la película: mostrarla en clase desde tu ordenador, subirla a youtube, grabarla en un Cd, etc.
 
 
-![Ventana guardar película en Video Pad](img/guardarpelivideopad.jpg "Guardar película en Video Pad")  fig. 6.44 Guardar. CPP
+![Ventana guardar película en Video Pad](img/guardarpelivideopad.jpg "Guardar película en Video Pad")  
 
 
 Si tienes dudas de cómo trabajar con Video Pad o, simplemente, quieres conocer otras prestaciones te recomendamos este [tutorial ](http://www.slideshare.net/Leonardarijo/video-pad "Tutorial sobre Video Pad")de Leonar Arijo o el videotutorial de Heriberto.
 
-  fig. 6.45 Tutorial sobre Video Pad de Leonar Arijo 
+  
 
 # **Para saber más**
 
@@ -174,30 +174,30 @@ Si tienes dudas de cómo trabajar con Video Pad o, simplemente, quieres conocer 
 Puede que hayas insertado algún vídeo y no te interese conservar su sonido. Así es que, antes de doblar el sonido de un clip, debemos aprender a **eliminar el sonido del mismo**.
 
 
-![Area trabajo sonido  en Video Pad](img/doblarsonidopelicula1.jpg "Área trabajo sonido en Video Pad") fig. 6.46 Área trabajo audio. Captura pantalla propia de Julián Trullenque
+![Area trabajo sonido  en Video Pad](img/doblarsonidopelicula1.jpg "Área trabajo sonido en Video Pad") 
 
 
 Tenemos dos métodos para eliminar el audio:
 
-1.  Bajar el sonido de la pista.
-2.  Eliminar todo el sonido.
+* Bajar el sonido de la pista.
+* Eliminar todo el sonido.
 
-1. **Bajar el sonido** de la pista.
-
-
-![Silenciar sonido Video Pad](img/doblarsonidopelicula2.jpg "Silenciar sonido Video Pad")  fig. 6.47 Opciones ocultar sonido. Captura pantalla propia de Julián Trullenque
+#### **Bajar el sonido** de la pista.
 
 
-2. **Eliminar** la pista de sonido:
+![Silenciar sonido Video Pad](img/doblarsonidopelicula2.jpg "Silenciar sonido Video Pad")  
+
+
+#### **Eliminar** la pista de sonido:
 
 *   **Separar la pista de vídeo** y sonido. Clic con el ratón encima de la pista. Aparece este menú:
 *   Al hacer clic observarás que la canción se ha desplazado a la pista de abajo. Si haces otra vez clic con el botón derecho, saldrá este menú, hacemos clic en "**Quitar video seleccionado**" y se eliminará la música.
 
 
-![Desvincular audioo y video Video Pad](img/doblarsonidopeli3.jpg "Desvincular audio Video Pad")   fig. 6.48 Desvincular clip de sonido. Captura pantalla propia de Julián Trullenque
+![Desvincular audioo y video Video Pad](img/doblarsonidopeli3.jpg "Desvincular audio Video Pad")   
 
 
-**2\. Grabar narración**
+### 2. Grabar narración
 
 1.  Hacemos **clic en Narrar**. La grabación nos permite ver las imágenes mientras hablamos y esto facilita la coordinación audio-vídeo.
 2.  Se abre un grabador de sonidos que, simultáneamente, proyecta el vídeo. El mando de esta grabadora es sumamente intuitivo, los tres botones típicos (“Record”, “Pause” y “Stop”) controlan el proceso. 
@@ -208,5 +208,5 @@ Tenemos dos métodos para eliminar el audio:
 ![Grabar narración Video Pad](img/grabarnarraciones.jpg "Grabar narración Video Pad") 
 
 
-fig. 6.49 Área de grabación sonidos. Captura pantalla propia de Julián Trullenque
+
 

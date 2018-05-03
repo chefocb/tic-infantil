@@ -10,7 +10,7 @@
  ![Mural trabajo salida a la estepa de Valdespartera](img/proyectoestepa_opt.jpg "Mural ecosistema Estepa")
 
 
-Fig. 6.2   Mural Ecosistema Estepa. CEIP Valdespartera. EPR
+
 
 Evaluar en los Proyectos de Trabajo debe ayudar a nuestro alumnado a mejorar su **metacognición**, es decir, a reflexionar el cómo, cuándo, dónde, con quién y qué de su aprendizaje.
 

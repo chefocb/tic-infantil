@@ -1,17 +1,11 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
-
-*   Documento de Aularagon que trata los **aspectos básicos del sonido**: formatos, soportes, etc.
-
-[http://www.aularagon.org/Files/UserFiles/File/Forprof/Hm/modulo-01.pdf](http://www.aularagon.org/Files/UserFiles/File/Forprof/Hm/modulo-01.pdf)
-
- 
+## Para saber más 
 
 *   **Banco de sonidos del INTEF**_. Ministerio de Educación. _Repositorio de sonidos organizado por categorías, aunque también de fotografías, ilustraciones, vídeos y animaciones.
 
 
- [![Página web de Intef](img/intefbancosonidos.jpg "Web de Intef")](http://recursostic.educacion.es/bancoimagenes/web/ "Web Intef") fig.4.27 Página Inicio de Intef. Captura propia de pantalla
+ [![Página web de Intef](img/intefbancosonidos.jpg "Web de Intef")](http://recursostic.educacion.es/bancoimagenes/web/ "Web Intef") 
 
 
 [http://recursostic.educacion.es/bancoimagenes/web/](http://recursostic.educacion.es/bancoimagenes/web/)
@@ -23,7 +17,7 @@
 *   **Versión portable de Audacity**
 
 
-![Portable apps y Mozilla firefox](img/portableapps.jpg "Portable apps")    fig. 4.28 Portable apps . Licencia Creative Commons
+![Portable apps y Mozilla firefox](img/portableapps.jpg "Portable apps")    
 
 
 Cada vez son más **frecuentes** las versiones **"portable"** de software. Estas versiones permiten llevar el programa instalado **en memorias externas** de manera que podremos siempre hacer uso de él aunque en el ordenador que estamos utilizando no esté instalado el programa. Así, pues, con conectar el** usb**, tendremos el programa a nuestra disposición.

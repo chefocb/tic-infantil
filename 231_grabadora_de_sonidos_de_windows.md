@@ -4,14 +4,14 @@
 ![Grabadora de sonidos se Windows, eliminar ruidos desde menú ARchivo](img/grabadora_de_sonidos.jpg "Eliminar ruidos desde la grabadora de sonidos de Windows")
 
 
-fig. 4.18 Eliminar ruidos en la grabadora sonidos Windows. CPP
+
 
 La Grabadora de sonidos de Windows es la herramienta **más sencilla** de grabación de sonidos. Viene instalada **por defecto** en los equipos con las diferentes versiones del sistema operativo de **Windows.**
 
 Podemos usar la grabadora de sonidos para **grabar** un sonido y **guardarlo** en el equipo como un archivo de audio. Tenemos la posibilidad de  grabar sonidos de **diferentes dispositivos** de audio, como un micrófono conectado a la tarjeta de sonido de su equipo. Los tipos de orígenes de entrada de audio de los que puede grabar dependen de los dispositivos de audio de los que disponga, así como de los **orígenes de entrada** de la tarjeta de sonido. Si tienes algún problema pincha en "Edición", "_Propiedades de audio_" y selecciona en "_Grabación de sonido_" el dispositivo con el que vas a trabajar.
 
 
-![Venta Propiedades de audio del programa de grabación de sonidos de Windows](img/propiedadesdeaudio.jpg "Propiedades de audio del programa grabación de Windows")    fig. 4.19 Propiedades de audio del programa de grabación de Windows. CPP
+![Venta Propiedades de audio del programa de grabación de sonidos de Windows](img/propiedadesdeaudio.jpg "Propiedades de audio del programa grabación de Windows")    
 
 
 **PASOS PARA LA GRABACIÓN.**
@@ -34,9 +34,9 @@ Podemos usar la grabadora de sonidos para **grabar** un sonido y **guardarlo*
 
 Si usas la versión de **Windows 7 o posteriores** verás que grabar es muy sencillo, pero las posibilidades que ofrece son más limitadas que las de versiones anteriores. De todas formas, pincha aquí para ver este sencillo [tutorial ](http://www.ite.educacion.es/formacion/materiales/42/cd/m1_7_6/tutorial_grabador_sonidos_Windows.pdf "Tutorial Grabadora sonidos Windows 7")del ite.educacion. Para versiones **anteriores a Windows 7** mira este [tutorial ](https://www.slideshare.net/learningmusic/tutorial-grabadora-de-sonido-windows-ppt "Tutorial grabadora sonidos 2007")de learningmusic.
 
-[](https://www.slideshare.net/learningmusic/tutorial-grabadora-de-sonido-windows-ppt "Tutorial grabadora sonidos Windows")   fig. 4.20 Portada tutorial Grabadora sonidos Windows de learningmusic.
+[](https://www.slideshare.net/learningmusic/tutorial-grabadora-de-sonido-windows-ppt "Tutorial grabadora sonidos Windows")   
 
-**CONVERSIÓN DE FORMATO**
+### CONVERSIÓN DE FORMATO
 
 El **problema** más habitual que hay al trabajar con la grabadora de sonidos es el **formato de audio** de los archivos que se generan. La grabadora de sonidos sólo crea archivos **.wav.** Los archivos de audio con extensión .wav son archivos de audio digital normalmente **sin** **compresión** de datos desarrollado y propiedad de Microsoft. 
 
@@ -46,13 +46,13 @@ Al ser de muy buena calidad y, por tanto, pesar mucho, a la hora de compartir es
 [![Rotulo Wav to Mpe Converter en web de Softonic](img/conversorsonidos.jpg "Wav to MPe Converter. Rótulo")](http://free-wav-to-mp3-converter.softonic.com/descargar "Wav to Mp3 Converter")
 
 
-fig.4.21 Conversor. Softonic
+
 
 
 [![Logo de media.io converter](img/mediao.jpg "Logo de media.io converter")](http://media.io/es/ "Media.io web conversores de sonido") 
 
 
-fig. 4.22   Logo media.io. Web oficial
+
 
 Para pasar de un formato .wav a uno .mp3 necesitarás un **conversor de formatos** de audio. Te enlazamos dos, aunque en la red puedes encontrar muchos más, para que te sea tan fácil como pinchar sobre los logos de la izquierda.
 

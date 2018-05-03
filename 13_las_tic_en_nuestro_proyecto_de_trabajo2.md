@@ -12,5 +12,5 @@ Lo más importante será que sirva a vuestro alumnado, y lo de menos la **herram
 ![Actividad de Formulario realizado por Jesús Gil Alejandre](img/Cuestionario_Jesusgilalejandre.jpg "Actividad de Formulario. Jesús Gil Alejandre")
 
 
- fig. 3.6 Actividad de formulario. Jesús Gil Alejandre
+ 
 

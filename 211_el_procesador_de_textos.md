@@ -9,12 +9,6 @@ Hay muchos **editores/procesadores de textos**, pero te vamos a proponer que use
 
 **Word**. **_(.doc y .docx), _**que forma parte del conjunto de aplicaciones de Microsoft Windows. Su uso extendido nos obliga a su recomendación para facilitar la labor a nuestro alumnado.
 
-
-[![Logo aplicaciones para Word de Microsoft](img/aplicaciones_para_word.PNG "Logo. Página oficial de Microsoft")](http://www.microsoft.com/es-es/default.aspx "logo de Word de Microsoft")
-
-
-fig. 3.9 Logo de Word. Web oficial de Microsoft
-
 Los **tutoriales** son de la versión 2007 porque para el 2014 Windows dejará de soportar las versiones del sistema operativo del 2003.
 
 **1.** Para saber cómo funciona el procesador de texto, mira esta web de [aulafácil](http://www.aulafacil.com/word-2007/word-2007/Temario.htm "Procesador de textos. Aulafacil.com")
@@ -29,7 +23,7 @@ Tanto si utilizas el tutorial de aulafácil (**1**) o el de Elier (**2**), tendr
 [![Logo de Openoffice](img/logo_openoffice.png "Logo openoffice. Página web oficial.")](http://www.openoffice.org/es/ "Web oficial de Openoffice")
 
 
- fig. 3.10 Logo de OpenOffice.  Web oficial
+ 
 
 Si conoces Word y abres este manual del Openoffice de la[ Junta de Andalucía](http://www.juntadeandalucia.es/averroes/manuales/materiales_tic/unit00/index_archivos/ayudas/Manual_OO_Writer.pdf "Tutorial Openoffice Junta Andalucía"), te resultará casi todo muy familiar.
 

@@ -29,7 +29,5 @@ Nosotros nos vamos a limitar a enseñarte más detenidamente **u**na herramienta
 
 
 [![Logo Educaplay](img/educaplayfree.png "Logo Educaplay. Web oficial")](http://www.educaplay.com/ "Web Educaplay")
-
-
-l                                                          Fig. 2.6 Logo Educaplay. Web oficial
+                                                     
 

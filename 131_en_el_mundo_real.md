@@ -8,7 +8,7 @@ En esta misma sesión los alumnos deberían decir lo que saben del grupo de anim
  [![Zorro](https://farm7.staticflickr.com/6173/6206753438_d31dfb911d.jpg)](http://www.flickr.com/photos/30781035@N08/6206753438/ "Zorro por andres_aal, en Flickr")
 
 
-fig. 1.4 Zorro. Andrés A. en Flickr
+
 
 La información que traigan los alumnos de sus casas, más algunos **videos** seleccionados por el docente, servirá para ir contestando a las preguntas del alumnado. La nueva información se irá convirtiendo paulatinamente en conocimiento a través del diálogo y de las actividades que prepare el profesorado utilizando una herramienta de autor como **Edilim**.
 

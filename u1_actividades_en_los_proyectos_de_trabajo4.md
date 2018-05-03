@@ -10,7 +10,7 @@
 ![Diapositiva del PPT el cerdito que no paraba de correr](img/cerditoquenoparabadecorrer.gif "Diapositiva PPT de Maqría V.Hernando")
 
 
-Fig. 5.3   Diapositiva PPT _"El cerdito que no paraba de correr_" MªVictoria Hernando
+
 
 Las actividades en los Proyectos de Trabajo deben ayudar a nuestro alumnado a **profundizar** en la pregunta clave o el tema.
 

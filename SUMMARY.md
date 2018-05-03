@@ -3,8 +3,8 @@
 * [Introducción](README.md)
 
 ____
-### M1. GALERÍAS DE IMÁGENES Y VIDEOS | M.1. Galerías de imágenes y videos 
-* [M1. GALERÍAS DE IMÁGENES Y VIDEOS](index0.md)
+### 1. Galerías de imágenes y videos 
+* [GALERÍAS DE IMÁGENES Y VIDEOS](index0.md)
 * [Contenidos](contenidos.md)
 	* [U1. TIC y Proyectos de Trabajo](u1_tic_y_proyectos_de_trabajo.md)
 		* [1.1 La utilización de las TIC en los Proyectos de Trabajo](11_la_utilizacin_de_las_tic_en_los_proyectos_de_trabajo.md)
@@ -24,10 +24,10 @@ ____
 		* [3.2 Cómo seleccionar](32_cmo_seleccionar.md)
 		* [3.3 Descargar vídeos](33_descargar_vdeos.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos.md)
 
-### M2. ACTIVIDADES INTERACTIVAS CON UNA HERRAMIENTA DE AUTOR | M.2. Actividades interactivas con una herramienta de autor: Edilim 
-* [M2. ACTIVIDADES INTERACTIVAS CON UNA HERRAMIENTA DE AUTOR](index1.md)
+
+### 2. Actividades interactivas con una herramienta de autor: Edilim 
+* [ACTIVIDADES INTERACTIVAS CON UNA HERRAMIENTA DE AUTOR](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U1. Tratamiento de la información en los Proyectos de Trabajo](u1_tratamiento_de_la_informacin_en_los_proyectos_de_trabajo.md)
 		* [1.1 La información en los Proyectos de Trabajo](11_la_informacin_en_los_proyectos_de_trabajo.md)
@@ -36,10 +36,10 @@ ____
 	* [U2. Las herramientas de autor](u2_las_herramientas_de_autor.md)
 		* [2.1 Educaplay: una alternativa on-line](21_educaplay_una_alternativa_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos1.md)
-* [Créditos](crditos1.md)
 
-### M.3 EL FORMULARIO COMO ACTIVIDAD DE APRENDIZAJE | M.3 El formulario como actividad de aprendizaje 
-* [M.3 EL FORMULARIO COMO ACTIVIDAD DE APRENDIZAJE](index2.md)
+
+### 3. El formulario como actividad de aprendizaje 
+* [EL FORMULARIO COMO ACTIVIDAD DE APRENDIZAJE](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U1. Reelaborando la información en los Proyectos de Trabajo](u1_reelaborando_la_informacin_en_los_proyectos_de_trabajo.md)
 		* [1.1 Reelaborar en los Proyectos de Trabajo](11_reelaborar_en_los_proyectos_de_trabajo.md)
@@ -53,9 +53,9 @@ ____
 		* [2.2.1 El formulario en Word](221_el_formulario_en_word.md)
 		* [2.2.2 El formulario en Openoffice](222_el_formulario_en_openoffice.md)
 		* [2.2.3 El formulario on-line: Google Drive](223_el_formulario_online_google_drive.md)
-* [Créditos](crditos2.md)
 
-### M4. Edición de sonidos | M4: Edición de sonidos 
+
+### 4. Edición de sonidos 
 * [M4. Edición de sonidos](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U1. Actividades en los Proyectos de Trabajo](u1_actividades_en_los_proyectos_de_trabajo.md)
@@ -71,10 +71,10 @@ ____
 		* [2.3.1 Grabadora de sonidos de Windows](231_grabadora_de_sonidos_de_windows.md)
 		* [2.3.2 Grabadoras de audio online](232_grabadoras_de_audio_online.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
 
-### M.5 EL EDITOR DE PRESENTACIÓN DE DIAPOSITIVAS | M.5 El editor de presentaciones 
-* [M.5 EL EDITOR DE PRESENTACIÓN DE DIAPOSITIVAS](index4.md)
+
+### 5. El editor de presentaciones 
+* [EL EDITOR DE PRESENTACIÓN DE DIAPOSITIVAS](index4.md)
 * [Contenidos](contenidos4.md)
 	* [U1. Actividades en los Proyectos de Trabajo](u1_actividades_en_los_proyectos_de_trabajo4.md)
 		* [1.1 Actividades en los Proyectos de Trabajo](11_actividades_en_los_proyectos_de_trabajo4.md)
@@ -89,10 +89,9 @@ ____
 		* [2.2.2 Insertar sonidos y presentación](222_insertar_sonidos_y_presentacin.md)
 		* [2.3 Alternativa: Impress](23_alternativa_impress.md)
 		* [2.4 Alternativa on-line: Prezi](24_alternativa_online_prezi.md)
-* [Créditos](crditos4.md)
 
-### M.6 EL EDITOR DE VÍDEOS | M.6 El editor de vídeos 
-* [M.6 EL EDITOR DE VÍDEOS](index5.md)
+### 6. El editor de vídeos 
+* [EL EDITOR DE VÍDEOS](index5.md)
 * [Contenidos](contenidos5.md)
 	* [U1. Evaluar en los Proyectos de Trabajo](u1_evaluar_en_los_proyectos_de_trabajo.md)
 		* [1.1 La evaluación en los Proyectos de Trabajo](11_la_evaluacin_en_los_proyectos_de_trabajo.md)
@@ -107,4 +106,7 @@ ____
 		* [2.3 Alternativa: Video Pad](23_alternativa_video_pad.md)
 		* [2.4 Subir vídeos a Youtube](24_subir_vdeos_a_youtube.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
-* [Créditos](crditos5.md)
+
+___
+
+* [Créditos](crditos.md)

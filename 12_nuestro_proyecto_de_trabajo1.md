@@ -15,73 +15,25 @@ Así, pues, y destacando las palabras en negrita de los dos anteriores párrafos
 *   Discriminar diferencias o semejanzas corporales, de sentimientos o hábitos con relación a los humanos. 
 *   Etc, (siendo éstas las más importantes).
 
- fig. 2.3 Peces en el acuario. Zaha-Hadid. Public Domain
+ 
 
  
 
 ## Pregunta de Elección Múltiple
 
-### Pregunta
-
-1\. ¿Qué pretendemos al sintetizar y reelaborar la información?
-
-#### Respuestas
-
-[Opción 1](#answer-44_5)
-
-Convertirla la información en conocimiento.
-
-[Opción 2](#answer-44_173)
-
-Repasar lo trabajado anteriormente.
-
-[Opción 3](#answer-44_176)
-
-Descubrir nuevos campos de investigación
-
-#### Retroalimentación
-
-¡CORRECTO! Ampliar, mejorar, reforzar nuestro conocimiento será el fin último de nuestro proyecto de Trabajo. Nuestro alumnado no está en disposición de estudiar, y, aunque lo estuviera, mejorar su conocimiento seguiría siendo su objetivo principal.
-
-Ampliar, mejorar, reforzar nuestro conocimiento será el fin último de nuestro proyecto de Trabajo. Nuestro alumnado no está en disposición de estudiar, y, aunque lo estuviera, mejorar su conocimiento seguiría siendo su objetivo principal.
-
-Ampliar, mejorar, reforzar nuestro conocimiento será el fin último de nuestro proyecto de Trabajo. Nuestro alumnado no está en disposición de estudiar, y, aunque lo estuviera, mejorar su conocimiento seguiría siendo su objetivo principal.
-
-#### Solución
-
-1.  [Opción correcta](#answer-44_5) ([Retroalimentación](#sa0b44_2))
-2.  [Incorrecto](#answer-44_173) ([Retroalimentación](#sa1b44_2))
-3.  [Incorrecto](#answer-44_176) ([Retroalimentación](#sa2b44_2))
-
-### Pregunta
-
-2\. ¿Qué actividades harías para reelaborar la información?
-
-#### Respuestas
-
-[Opción 1](#answer-44_185)
-
-Una careta de perro para pintar.
-
-[Opción 2](#answer-44_188)
-
-Una careta de perro para compararla con un rostro humano.
-
-[Opción 3](#answer-44_191)
-
-Relacionar imágenes del crecimiento de un perro y  de un ser humano.
-
-#### Retroalimentación
-
-Pintar una careta no nos añade nada a nuestro proyecto.
-
-Ésta también podría ser correcta porque comparar dos realidades es una buena forma de convertir la información en conocimiento.
-
-¡ CORRECTA! Comparar dos realidades es una buena forma de convertir la información en conocimiento.
-
-#### Solución
-
-1.  [Incorrecto](#answer-44_185) ([Retroalimentación](#sa0b44_182))
-2.  [Incorrecto](#answer-44_188) ([Retroalimentación](#sa1b44_182))
-3.  [Opción correcta](#answer-44_191) ([Retroalimentación](#sa2b44_182))
-
+<quiz name="">
+    <question>
+        <p>¿Qué pretendemos al sintetizar y reelaborar la información?</p>
+        <answer correct>Convertirla la información en conocimiento.</answer>
+        <answer>Repasar lo trabajado anteriormente.</answer>
+        <answer>Descubrir nuevos campos de investigación</answer>
+        <explanation>Ampliar, mejorar, reforzar nuestro conocimiento será el fin último de nuestro proyecto de Trabajo. Nuestro alumnado no está en disposición de estudiar, y, aunque lo estuviera, mejorar su conocimiento seguiría siendo su objetivo principal.</explanation>
+    </question>
+    <question>
+        <p>¿Qué actividades harías para reelaborar la información?</p>
+        <answer>Una careta de perro para pintar.</answer>
+        <answer>Una careta de perro para compararla con un rostro humano.</answer>
+        <answer correct>Relacionar imágenes del crecimiento de un perro y  de un ser humano.</answer>
+        <explanation>Comparar dos realidades es una buena forma de convertir la información en conocimiento.</explanation>
+    </question>
+</quiz>

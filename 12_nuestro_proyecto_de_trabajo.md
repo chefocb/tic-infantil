@@ -6,7 +6,7 @@ El curso se estructura a través de un proyecto de trabajo acerca de un tema de 
 ![Detalle peces en el acuario. Zaha-Hadid](http://www.public-domain-photos.com/free-stock-photos-1-big/animals/aquarium-fish-23.jpg "www.discover-deliver.com/zaha-hadid")
 
 
- fig. 1.3 Detalle foto Acuario. Public Domain. Zaha-Hadid
+ 
 
 En módulos posteriores veréis como esta temática, aparentemente exclusiva de Conocimiento del Entorno, enlaza con el área de Comunicación y representación a través de cuentos, historias o leyendas que puedan tratar, directa o indirectamente, el tema trabajado. La idea central es, resumidamente, **comparar el mundo real** con el **mundo imaginario** a través de una temática concreta.
 

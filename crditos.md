@@ -2,17 +2,14 @@
 
 ## Autoría
 
-**Enrique Pérez Reino**
+* {{ book.author }}
 
-_© Gobierno de Aragón_
+### Colaboradores:
 
-**Materiales cofinanciados por Fondo Social Europeo**
+{% for collaborator in book.collaborators %}
+* {{collaborator.name}} en {{collaborator.edited}}
+{% endfor %}
 
+___
 
-![](img/FSE_grande_fondo_blanco.jpg)
-
-
-
-![](img/Educacion_color.gif)
-
-
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}

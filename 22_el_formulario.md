@@ -6,5 +6,5 @@ Dominado lo más básico del procesador de textos y cómo hacer tablas, estás e
 [![Actividades de cuestionario de Inmaculada Oliva](img/Cuestionario_InmaOliva.jpg "Actividades de cuestionario")](http://aularagon.catedu.es/materialesaularagon2013/ticinfantil/Formularioinmaoliva.dot "Formulario sobre cuentos")
 
 
-Fig. 3.14 Formulario con diferentes campos. Inmaculada Oliva. CPP
+
 

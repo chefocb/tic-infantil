@@ -8,7 +8,7 @@
 [![Logo de Ardora.net](img/Ardora.jpg "Logo oficial de Ardora")](http://webardora.net/index_cas.htm "Ardora. Herramienta de autor")
 
 
-Fig. 2.18 Logo Ardora. Web oficial.
 
-Con Ardora se pueden crear **más de 45 tipos distintos de actividades**, crucigramas, sopas de letras, completar, paneles gráficos, relojes, etc, así como** más de 10 tipos distintos de páginas multimedia.**  Si te atreves, mírate el [tutorial](http://www.catedu.es/facilytic/2013/04/30/ardora/ "Tutorial Catedu sobre ARdora") del Catedu.
+
+Con Ardora se pueden crear **más de 45 tipos distintos de actividades**, crucigramas, sopas de letras, completar, paneles gráficos, relojes, etc, así como** más de 10 tipos distintos de páginas multimedia.**  Si te atreves, mírate el [tutorial](http://facilytic.catedu.es/2013/04/30/ardora/ "Tutorial Catedu sobre ARdora") del Catedu.
 

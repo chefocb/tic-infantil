@@ -16,7 +16,7 @@ Si sigues los sencillos y claros pasos del videotutorial de [Amira Argentina](h
 *   No olvides de tildar la casilla de "_Preguntas obligatorias_". Ayudará a que el alumno no haga un formulario incompleto.
 *   Si el alumnado trabaja individualmente, enlaza la URL del Formulario a alguna imagen que le sea significativa para hacer clic sobre ella fácilmente
 
-fig. 3.18 Formulario Google Drive. Captura pantalla propia
+
 
 Si te decides a emplear este medio, tendrás que **copiar la URL** del documento para enviársela a tu tutor. Para ello vete al margen superior derecho del Formulario y pincha en “_Enviar formulario"_ y se abrirá la siguiente ventana.
 
@@ -26,7 +26,7 @@ Vete a la casilla “_enlace para compartir_” y cópialo porque será esto lo 
 ![Ventana enviar el formulario en Google Drive](img/enviar_formulario.jpg "Enviar formulario. Captura de pantalla propia")
 
 
- Fig. 3.19 Enviar Formulario Google Drive. CPP
+ 
 
 
 [![Actividad de formulario Google Drive de Enrique Pérez](img/FORMULARIO_GOOGLE_DRIVE.jpg "Formulario Google Drive")](https://docs.google.com/forms/d/1PJQPcIEKFoWElqaNzPwlqg7S6DxVGu5gC5voMzhD2Os/copy "Formulario en Google Drive")
@@ -37,5 +37,5 @@ Si pinchas sobre la imagen verás **actividades** que hemos hecho para nuestro P
 *   Elige imágenes de calidad.
 *   Titula las imágenes aunque tus alumnos sean muy pequeños.
 
-Fig. 3.20 Formulario. Enrique Pérez
+
 

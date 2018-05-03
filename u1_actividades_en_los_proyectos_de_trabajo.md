@@ -13,5 +13,5 @@
 [![Dibujo de Blancanieves y su amigo realizado por niño 5 años](img/Blancanieves.jpg "Blancanieves y su amigo")](http://aularagon.catedu.es/materialesaularagon2013/ticinfantil/Blancanieves.wav "Audio Blancanieves y su amigo")
 
 
-fig. 4.3   Blancanieves y su amigo. Rocío Beser
+
 

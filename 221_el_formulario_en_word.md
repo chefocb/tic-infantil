@@ -9,7 +9,7 @@ Antes de empezar, asegúrate de que esté visible el Formulario en la Barra de H
 ![Menú donde aparecen los distintos tipos de formulario](img/Tipos_formulario.jpg "Tipos formularios. Captura pantalla propia")
 
 
-fig. 3.15 Tipos formularios. Captura pantalla propia.
+
 
 Entre las **actividades** básicas que te encontrarás están:
 
@@ -28,5 +28,5 @@ A la hora de **guardarlo**, hazlo como una plantilla. De esta forma, tus alumno
 ![Guardar formulario como plantilla de Word](img/Plantilla_de_word.jpg "Guardar formulario. Captura pantalla propia") 
 
 
-fig. 3.16 Guardar como plantilla. CPP
+
 

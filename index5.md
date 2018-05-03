@@ -5,9 +5,6 @@
 Herramientas de edición de vídeo gratuitas hay muchas, pero en el mundo de la educación la más extendida es MovieMaker. De todas formas, tal como hemos hecho a lo largo de todo el curso, te vamos a proponer otras **opciones **para que materialices la actividad final  del Proyecto de Trabajo.
 
 
-![](http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif "youtube")
-
-
 ## Objetivos
 
 *   **Editar una película utilizando las imágenes, información y sonidos elaborados durante todo el proyecto.**

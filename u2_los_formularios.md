@@ -6,7 +6,7 @@
 
 La tercera acepción de la **RAE** de formulario nos dice “_impreso con espacios en blanco_”, a lo que habría que añadir la definición de la **Wikipedia**: “_con el propósito de que el usuario introduzca datos estructurados (nombre, apellidos, dirección, etc.) en las zonas del documento destinadas a ese propósito para ser almacenadas y procesadas posteriormente_”.
 
-                                                                          fig. 3.7 Actividad formulario Campo de texto. Cristina Altaba
+                                                                          
 
 **Ventajas**:
 

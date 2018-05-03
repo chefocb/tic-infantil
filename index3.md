@@ -6,14 +6,6 @@ En este módulo nos vamos a centrar en el **mundo imaginario** creando, recreand
 [![Hansel y Gretel hecho por niño de 5 años](img/Gretel.jpg "Hansel y Gretel")](http://aularagon.catedu.es/materialesaularagon2013/ticinfantil/Gretel.wav "Hansel y Gretel")
 
 
-fig. 4.1 Hansel y Gretel. Rocío Beser
-
-
-![](http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif "youtube")
-
-
 ## Objetivos
 
 *   **Grabar, tratar y exportar sonidos utilizando una herramienta de grabación de audio**
-    
-

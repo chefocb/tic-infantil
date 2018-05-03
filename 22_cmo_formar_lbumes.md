@@ -6,12 +6,12 @@
 ![](img/visor_windows.jpg "visor de windows")
 
 
-fig. 1.10 Visor Windows. Captura pantalla propia
+
 
 Puedes **mostrar las imágenes de una manera automática** haciendo clic en "_Iniciar la presentación_". De esta forma las imágenes se verán a pantalla completa. Si quieres pasar una imagen antes del tiempo que marca el automatismo, lo puedes hacer simplemente pinchando dentro de la pantalla.
 
 
-![](img/iniciar_presentacion.jpg)fig. 1.11 Iniciar presentación imágenes. CPP
+![](img/iniciar_presentacion.jpg)
 
 
 También puedes **mostrar imágenes de forma manual** pinchando en las dobles flechas situadas abajo, a la izquierda.

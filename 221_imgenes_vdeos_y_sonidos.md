@@ -2,7 +2,7 @@
 
 Una vez hayas abierto el programa, es momento de explorar todas las herramientas que te ofrece este programa en el **"Panel de control**".
 
-fig. 6.14. Presentación realizada por Julián Trullenque. Licencia CC by-nc  
+
   
 
 Importamos todas las fotos y música a nuestro proyecto de edición.Aunque no hay un **orden** fijo **para trabajar en la edición**, no estaría mal que tuvieras en consideración estas **recomendaciones**:
@@ -19,7 +19,7 @@ Importamos todas las fotos y música a nuestro proyecto de edición.Aunque no ha
  ![Configurar proyecto Movie Maker](img/2012configurarproyecto.jpg "Configurar proyecto Movie Maker")
 
 
-fig. 6.15 Configurar proyecto. Captura de pantalla propia
+
 
 **1\. Insertar clip de vídeo o imagen**
 
@@ -31,7 +31,7 @@ fig. 6.15 Configurar proyecto. Captura de pantalla propia
  ![Menú Principal, insertar video en Movie Maker](img/insertar_video.jpg "Insertar Video en Movie Maker")
 
 
-fig. 6.16 Insertar vídeo. Captura de pantalla propia de Javier Trullenque
+
 
 **2\. Agregar un clip de sonido**
 
@@ -41,7 +41,7 @@ fig. 6.16 Insertar vídeo. Captura de pantalla propia de Javier Trullenque
 ![Menú Principal, agregar sonido en Movie Maker](img/agregasonidomoviemaker.jpg "Agregar sonido en Movie Maker")
 
 
-fig. 6.17  Agregar sonidos. Captura de pantalla propia de Javier Trullenque
+
 
 **3º Narraciones de audio**
 
@@ -51,7 +51,7 @@ fig. 6.17  Agregar sonidos. Captura de pantalla propia de Javier Trullenque
 ![Grabar narración en Movie Maker](img/grabarmoviemaker.jpg "Grabar desde Movie Maker")
 
 
-fig. 6.18 Grabar narración. Captura de pantalla propia de Javier Trullenque
+
 
 *   Clic en **Grabar Narración**. Aparecerá otro botón para parar la grabación. Cuando paramos, nos pedirá **grabar el sonido en una carpeta**, lo hacemos. Ya tenemos **grabadas las narraciones**.
 
@@ -59,18 +59,18 @@ fig. 6.18 Grabar narración. Captura de pantalla propia de Javier Trullenque
 ![Grabar sonidos desde Movie Maker](img/grabar_sonidos.jpg "Grabar sonidos Movie Maker")
 
 
-fig. 6.19 Área de grabación. Captura de pantalla propia de Javier Trullenque
+
 
 4º **Guarda la película.**
 
-   fig. 6.20 Tutorial Movie Maker 2012. REnaugus
+   
 
 Las funciones que hemos tratado hasta ahora, y las que trataremos en los dos siguientes subapartados, las puedes ver explicadas en el **tutorial** de la izquierda
 
 ## ** Versiones anteriores a 2012**
 
 
-![Área de trabajo de Movie Maker](img/area_de_trabajo.jpg "Área de trabajo de Movie Maker")   fig. 6.21 Área de trabajo de Movie Maker
+![Área de trabajo de Movie Maker](img/area_de_trabajo.jpg "Área de trabajo de Movie Maker")   
 
 
 
@@ -86,7 +86,7 @@ Se supone que durante el proyecto hemos trabajado con archivos de imagen, y no d
 Mientras estás editando, sonidos e imágenes se insertan al programa, pero no se incrustan. Esto quiere decir que dichos **archivos no debes cambiarlos de carpeta**, por lo menos hasta que finalices la película. En estos casos te aparecerá la imagen de X rojas sobre fondo azul. Para que aparezcan las imágenes haz clic con el botón derecho y pincha Buscar el archivo que falta. Si no lo encuentras automáticamente, habrá que llevarlo manualmente hasta el archivo origen. Una vez hayas finalizado la edición de la película, todos los archivos quedarán incrustados a la misma y los originales ya no serán necesarios.
 
 
-![Pantalla de Movie Maker donde no se localizan los archivos](img/Buscar_el_archivo_que_falta.jpg "No detección de archivos en Movie Maker")  fig. 6.22 No reconocimiento de archivos en Movie Maker. CPP
+![Pantalla de Movie Maker donde no se localizan los archivos](img/Buscar_el_archivo_que_falta.jpg "No detección de archivos en Movie Maker")  
 
 
 Antes de incluir transiciones, efectos o créditos te recomendamos tengas ya insertadas las imágenes, vídeos y sonidos. Y no te molestes en hacer ningún tipo de sincronización entre sonidos e imágenes hasta que hayas incluido las transiciones y los créditos. No hacerlo nos asegura que la **sincronización** que tanto nos ha costado desaparezca.

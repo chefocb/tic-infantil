@@ -10,7 +10,7 @@
 ![Pantalla sobre como copiar una URL](img/Copiar_URL.jpg "Captura de pantalla propia")
 
 
-fig. 1.16 Copiar URL. Captura de pantalla propia
+
 
 ## **Copiar la URL**
 

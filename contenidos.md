@@ -2,7 +2,7 @@
 
 A continuación enumeramos los contenidos que forman parte de este módulo.
 
-*   Unidad 1:**Tic y Proyectos de trabajo.**
+### Unidad 1:**Tic y Proyectos de trabajo.**
 
 1.1. La utilización de las TIC en los Proyectos de Trabajo.
 
@@ -10,11 +10,11 @@ A continuación enumeramos los contenidos que forman parte de este módulo.
 
 1.3. Las TIC en nuestro Proyecto de Trabajo.
 
-1.3.1 En el mundo real
+*	1.3.1 En el mundo real
 
-1.3.2 En el mundo imaginario
+*	1.3.2 En el mundo imaginario
 
-*   Unidad 2: **Álbum de imágenes.**
+### Unidad 2: **Álbum de imágenes.**
 
 2.1. Galería de imágenes
 
@@ -28,7 +28,7 @@ A continuación enumeramos los contenidos que forman parte de este módulo.
 
 2.2.2 Google Fotos
 
-*   Unidad 3: **Galerías de vídeos.**
+### Unidad 3: **Galerías de vídeos.**
 
 3.1 Dónde buscar
 
@@ -36,5 +36,5 @@ A continuación enumeramos los contenidos que forman parte de este módulo.
 
 3.3 Descargar vídeos
 
-*   Unidad 4:**Entrega al tutor.**
+### Unidad 4: **Entrega al tutor.**
 

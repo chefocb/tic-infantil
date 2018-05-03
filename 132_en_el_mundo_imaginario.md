@@ -3,7 +3,7 @@
 El profesorado deberá seleccionar una **galería de vídeos** de cuentos relacionados con el tema trabajado hasta ahora. Nos interesa que el alumnado distinga entre el mundo real-analizado anteriormente- y la ficción, cuyas características extraeremos en la asamblea y afianzaremos creando un **Formulario**.
 
 
-[![ilustración para el cuento "el lector" de laura moreira](https://farm7.staticflickr.com/6189/6127634065_043e19ea14.jpg)](http://www.flickr.com/photos/lappinta/6127634065/ "ilustración para el cuento "el lector" de laura moreira por La Pe, en Flickr") Fig. 1.5. Ilustración para el cuento "El lector". Laura Moreira en Flickr
+[![ilustración para el cuento "el lector" de laura moreira](https://farm7.staticflickr.com/6189/6127634065_043e19ea14.jpg)](http://www.flickr.com/photos/lappinta/6127634065/ "ilustración para el cuento "el lector" de laura moreira por La Pe, en Flickr") 
 
 
 En Asamblea los niños elegirán uno de las historias, cuentos o leyendas vistas, o crearán el suyo propio. El docente seleccionará las frases más significativas del cuento, que serán grabadas por cada niño utilizando un **editor de audio**, o, en última instancia, la propia grabadora de sonidos del ordenador.

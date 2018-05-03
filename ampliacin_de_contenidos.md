@@ -1,8 +1,8 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
-*   Web de la _Universidad de Cornell_ donde se ofrece una terminología básica sobre las **imágenes digitales. **
+*   Web de la _Universidad de Cornell_ donde se ofrece una terminología básica sobre las **imágenes digitales.**
 
 [http://www.library.cornell.edu/preservation/tutorial-spanish/intro/intro-01.html](http://www.library.cornell.edu/preservation/tutorial-spanish/intro/intro-01.html) 
 
@@ -28,5 +28,5 @@
 [![Logo Keepvid](img/keepvid.jpg "Logo Keepvid")](http://keepvid.com/ "Keepvid. Descargar vídeos desde la red")
 
 
-Fig. 1.21 Logos Zamzar, Kioskea y Keepvid. Webs oficiales
+
 

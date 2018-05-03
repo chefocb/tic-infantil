@@ -14,7 +14,7 @@ Como en otros ámbitos de las TIC, las aplicaciones que podemos encontrar son mu
 *   Posibilidad de utilización también con PDA y Pizarras Digitales Interactivas.
 
 
- fig. 5.8 Diapositiva Power Point. Ana C.Blasco![Diapositiva Power Poing "Cuento grupal" de Ana Cristina Blasco](img/cuentogrupal_AnaC.Blasco.jpg "Diapositiva Power Point "Cuento grupal"")
+ 
 
 
 Desde el punto de vista **educativo** :

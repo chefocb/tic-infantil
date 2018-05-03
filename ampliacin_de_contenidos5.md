@@ -15,10 +15,10 @@
 *   [VidToMP3 ](http://www.vidtomp3.com/ "Descargar vidtomp3") es un programa que descarga vídeos, pero que tiene la particularidad de extraer el audio de los mismos.
 
 
-[![Logo de Vidtomp3](img/logo_bedtomp3.gif "Logo Vidtompe")](http://www.vidtomp3.com/ "Bajar sonidos de Youtube")   fig. 6.53 Logo VidtoMp3. Web oficial
+[![Logo de Vidtomp3](img/logo_bedtomp3.gif "Logo Vidtompe")](http://www.vidtomp3.com/ "Bajar sonidos de Youtube")   
 
 
 *   En esta presentación de **Argentina trabaja**, se nos muestran las **posibilidades de Youtube** como alojador y editor de vídeos, así como las tradicionales de ver, compartir y editar vídeos en línea.
 
-[http://www.catedu.es/facilytic/2013/10/09/posibilidades-de-youtube/](http://www.catedu.es/facilytic/2013/10/09/posibilidades-de-youtube/)
+[http://facilytic.catedu.es/2013/10/09/posibilidades-de-youtube/](http://facilytic.catedu.es/2013/10/09/posibilidades-de-youtube/)
 
