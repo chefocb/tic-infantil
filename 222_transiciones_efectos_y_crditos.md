@@ -1,5 +1,10 @@
 # 2.2.2 Transiciones, efectos y créditos
 
+>**danger**
+> [Windows Movie Maker ya no está disponible para la descarga](https://support.microsoft.com/es-es/help/4054502/windows-10-movie-maker-is-no-longer-available-for-download). Por ello, las siguientes indicaciones sólo podrás seguirlas si tienes ya instalado Windows Movie Maker en tu ordenador.
+> Si tienes Windows 10 puedes realizar la última tarea de este curso utilizando el software **Fotos** que viene instalado.
+> También puedes utilizar el software libre galardonadoo y multiplataforma [**Open Shot**](https://www.openshot.org/es/).
+
 **1**. **Transiciones** te permite crear una transición entre el clip que tiene seleccionado y el siguiente clip en la secuencia. Las transiciones permitirán que el clip cambie gradualmente al siguiente.
 
 1.  Clic en el vídeo que quieres la transición. Si quieres ponerla entre el primero y el segundo, tendrás que hacer clic en el segundo vídeo.

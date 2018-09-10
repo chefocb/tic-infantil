@@ -1,5 +1,10 @@
 # 2.2.1 Imágenes, vídeos y sonidos
 
+>**danger**
+> [Windows Movie Maker ya no está disponible para la descarga](https://support.microsoft.com/es-es/help/4054502/windows-10-movie-maker-is-no-longer-available-for-download). Por ello, las siguientes indicaciones sólo podrás seguirlas si tienes ya instalado Windows Movie Maker en tu ordenador.
+> Si tienes Windows 10 puedes realizar la última tarea de este curso utilizando el software **Fotos** que viene instalado.
+> También puedes utilizar el software libre galardonadoo y multiplataforma [**Open Shot**](https://www.openshot.org/es/).
+
 Una vez hayas abierto el programa, es momento de explorar todas las herramientas que te ofrece este programa en el **"Panel de control**".
 
 

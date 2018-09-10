@@ -1,5 +1,11 @@
 # 2.2 Movie Maker
 
+>**danger**
+> [Windows Movie Maker ya no está disponible para la descarga](https://support.microsoft.com/es-es/help/4054502/windows-10-movie-maker-is-no-longer-available-for-download). Por ello, las siguientes indicaciones sólo podrás seguirlas si tienes ya instalado Windows Movie Maker en tu ordenador.
+> Si tienes Windows 10 puedes realizar la última tarea de este curso utilizando el software **Fotos** que viene instalado.
+> También puedes utilizar el software libre galardonadoo y multiplataforma [**Open Shot**](https://www.openshot.org/es/).
+
+
 Es un programa de edición de vídeo de  Windows. Es un programa de Windows que captura e importa videos, sonidos e imágenes fijas para editarlas. Al contenido puede agregar títulos, transiciones de vídeo o efectos y guardar finalmente como formato película.
 
 
