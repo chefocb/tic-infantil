@@ -1,4 +1,4 @@
-# 2.4 Subir vídeos a Youtube
+# 2.5 Subir vídeos a Youtube
 
 El vídeo que acabamos de hacer, por poco que pese, nos va a ocupar cierto espacio en nuestro ordenador y va a ser difícil colgarlo en un blog o en una web. Así que necesitamos un  buen **servidor donde almacenar nuestros videos** y desde allí bajarlos embebidos o enlazados a nuestra blog/web, o para que la gente lo vea directamente desde la galería de vídeos. Hoy por hoy, el gran servidor de almacenamiento de vídeos lo ofrece [Youtube](http://www.youtube.com/ "YouTube").
 

@@ -104,7 +104,8 @@ ____
 		* [2.2.2 Transiciones, efectos y créditos](222_transiciones_efectos_y_crditos.md)
 		* [2.2.3 Guardar y crear película](223_guardar_y_crear_pelcula.md)
 		* [2.3 Alternativa: Video Pad](23_alternativa_video_pad.md)
-		* [2.4 Subir vídeos a Youtube](24_subir_vdeos_a_youtube.md)
+		* [2.4 Alternativa: OpenShot](24_openshot.md)
+		* [2.5 Subir vídeos a Youtube](25_subir_vdeos_a_youtube.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
 
 ___
