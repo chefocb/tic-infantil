@@ -3,7 +3,7 @@
 El curso se estructura a través de un proyecto de trabajo acerca de un tema de Conocimiento del entorno y que, genéricamente, vamos a llamar **EL MUNDO QUE NOS RODEA**. No debemos olvidar esta idea porque, de ahora en adelante, siempre haremos mención a EL MUNDO ANIMAL, parte del Mundo que nos rodea que hemos seleccionado para  desarrollar como ejemplo de proyecto. Cada docente deberá seleccionar qué tema trabajar con su alumnado: mundo vegetal, transportes, profesiones o un sin fin de temas más o menos convencionales y que, con total libertad, podéis desarrollar.
 
 
-![Detalle peces en el acuario. Zaha-Hadid](http://www.public-domain-photos.com/free-stock-photos-1-big/animals/aquarium-fish-23.jpg "www.discover-deliver.com/zaha-hadid")
+![Detalle peces en el acuario. Zaha-Hadid](http://www.public-domain-photos.com/free-stock-photos-1-big/animals/aquarium-fish-23.jpg)
 
 
  
